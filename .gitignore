@@ -1,0 +1,11 @@
+*.asm
+*.lst
+*.sym
+*.rst
+*.rel
+*.lk
+*.map
+*.mem
+*.ihx
+*.bin
+__pycache__
